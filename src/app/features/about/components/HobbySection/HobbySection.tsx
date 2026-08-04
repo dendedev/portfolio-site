@@ -28,7 +28,7 @@ const HobbySection = () => {
               </em>
               と考え、
               <a
-                href="https://github.com/kaijutale/outputquest"
+                href="https://github.com/dendedev/outputquest"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={styles["about-product-link"]}
@@ -39,8 +39,8 @@ const HobbySection = () => {
             </p>
             <p>
               <span className={`font-bold ${styles["light-effect"]}`}>現在の注力</span>
-              ：AI-Driven Development / Agentic Engineering / Agent Harness / Multi-Agent Orchestration / Claude Code /
-              Next.js / React / UI / UX / Interaction
+              ：AI-Driven Development / Agentic Engineering / Agent Harness / Multi-Agent
+              Orchestration / Claude Code / Next.js / React / UI / UX / Interaction
             </p>
           </HobbyItem>
 
