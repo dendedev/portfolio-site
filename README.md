@@ -124,13 +124,13 @@ https://github.com/user-attachments/assets/4365ea0e-4dbd-449f-8a30-6e5c7962005a
 
 ### フロント
 
-- [Next.js](https://nextjs.org/)：v16.2.4
-- [React](https://ja.react.dev/)：v19.2.5
+- [Next.js](https://nextjs.org/)：v16.2.12
+- [React](https://ja.react.dev/)：v19.2.8
 - [TypeScript](https://www.typescriptlang.org/)：v6.0.3
 
 ### スタイル・UI
 
-- [Tailwind CSS](https://tailwindcss.com/)：v4.1.18
+- [Tailwind CSS](https://tailwindcss.com/)：v4.2.4
 - [shadcn/ui](https://ui.shadcn.com/)
 
 ### アニメーション
@@ -141,8 +141,8 @@ https://github.com/user-attachments/assets/4365ea0e-4dbd-449f-8a30-6e5c7962005a
 
 ### 3Dコンテンツ
 
-- [Three.js](https://threejs.org/)：v0.184.0
-- [React Three Fiber](https://r3f.docs.pmnd.rs/getting-started/introduction)：v9.6.0
+- [Three.js](https://threejs.org/)：v0.185.1
+- [React Three Fiber](https://r3f.docs.pmnd.rs/getting-started/introduction)：v9.7.0
 - [Drei](https://drei.docs.pmnd.rs/getting-started/introduction)：v10.7.7
 - [React Spring](https://www.react-spring.dev/)：v10.0.3
 
@@ -152,8 +152,8 @@ https://github.com/user-attachments/assets/4365ea0e-4dbd-449f-8a30-6e5c7962005a
 
 ### フォーム・スキーマバリデーション
 
-- [React Hook Form](https://react-hook-form.com/)：v7.71.1（フォーム）
-- [Zod](https://zod.dev/)：v4.3.5（スキーマバリデーション）
+- [React Hook Form](https://react-hook-form.com/)：v7.74.0（フォーム）
+- [Zod](https://zod.dev/)：v4.3.6（スキーマバリデーション）
 
 ### メール送信サービス
 
